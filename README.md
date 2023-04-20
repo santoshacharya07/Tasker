@@ -39,9 +39,9 @@ This project is licensed under the [Apache-2.0 License](https://github.com/Erfan
 ## Author
 This Flutter project is developed by [Erfan Rahmati](https://github.com/ErfanRht).
 
-## Supporters
-[![Stargazers repo roster for @ErfanRht/Tasker](https://reporoster.com/stars/ErfanRht/Tasker)](https://github.com/ErfanRht/Tasker/stargazers)
-[![Forkers repo roster for @ErfanRht/Tasker](https://reporoster.com/forks/ErfanRht/Tasker)](https://github.com/ErfanRht/Tasker/network/members)
+//## Supporters
+//[![Stargazers repo roster for @ErfanRht/Tasker](https://reporoster.com/stars/ErfanRht/Tasker)](https://github.com/ErfanRht/Tasker/stargazers)
+//[![Forkers repo roster for @ErfanRht/Tasker](https://reporoster.com/forks/ErfanRht/Tasker)](https://github.com/ErfanRht/Tasker/network/members)
 
 ---
 
